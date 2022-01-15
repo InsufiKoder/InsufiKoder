@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![Unuseful's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsufiKoder&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - 💬 The current project i work on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsufiKoder&repo=EveBot&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsufiKoder&repo=EveBot&show_icons=true&theme=radical)](https://github.com/InsufiKoder/EveBot)
