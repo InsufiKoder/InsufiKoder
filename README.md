@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤔 My most used languages are:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsufiKoder&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 My github stats are:
 
 [![Unuseful's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsufiKoder&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🤔 My most used languages are:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsufiKoder&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - 💬 The current project i work on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsufiKoder&repo=EveBot&show_icons=true&theme=radical)](https://github.com/InsufiKoder/EveBot)
