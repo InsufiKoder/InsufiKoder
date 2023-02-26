@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning javascript
 - ⚡ I'm mostly coding discord.js bots
-- 🔭 I’m currently working on my new bot called Eve
 
 <!--
 **InsufiKoder/InsufiKoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
