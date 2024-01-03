@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p5256xvte5anfze5b5sngtwvn&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=p5256xvte5anfze5b5sngtwvn&redirect=true)
-
 - 🌱 I’m currently learning javascript
 - ⚡ I'm mostly coding discord.js bots
 
