@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning javascript
-- ⚡ I'm mostly coding discord.js bots
 
 <!--
 **InsufiKoder/InsufiKoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +23,3 @@ Here are some ideas to get you started:
 - 🤔 My most used languages are:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsufiKoder&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- 💬 The current project i work on:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InsufiKoder&repo=Fresh&show_icons=true&theme=radical)]([https://github.com/InsufiKoder/EveBot](https://github.com/InsufiKoder/Fresh))
